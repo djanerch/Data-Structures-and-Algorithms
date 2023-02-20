@@ -36,5 +36,31 @@ namespace GraphsAndThrees
             }
             return count;
         }
+
+        public int CountOfElementViaBFS(int findedValue)
+        {
+            int count = 0;
+
+            if (this.Children != null)
+            {
+                Queue<TreeNode> queue = new Queue<TreeNode>();
+
+                foreach (var item in this.Children)
+                {
+                    if (item.Value == findedValue)
+                    {
+                        count++;
+                    }
+                    queue.Enqueue(item);
+                }
+
+                while (queue.Count != 0)
+                {
+                    count += queue.Dequeue().CountOfElementViaBFS(findedValue);
+                }
+            }
+
+            return count;
+        }
     }
 }

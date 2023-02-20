@@ -28,7 +28,9 @@ namespace GraphsAndThrees
 
             TreeNode tree = new TreeNode(10, list);
 
-            Console.WriteLine(tree.CountOfElementViaDFS(9));
+            //Values of methods should be 1
+            Console.WriteLine(tree.CountOfElementViaDFS(4));
+            Console.WriteLine(tree.CountOfElementViaBFS(4));
         }
     }
 }
