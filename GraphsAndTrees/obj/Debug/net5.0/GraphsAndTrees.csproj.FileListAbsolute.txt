@@ -1,0 +1,16 @@
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\bin\Debug\net5.0\GraphsAndTrees.exe
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\bin\Debug\net5.0\GraphsAndTrees.deps.json
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\bin\Debug\net5.0\GraphsAndTrees.runtimeconfig.json
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\bin\Debug\net5.0\GraphsAndTrees.runtimeconfig.dev.json
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\bin\Debug\net5.0\GraphsAndTrees.dll
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\bin\Debug\net5.0\ref\GraphsAndTrees.dll
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\bin\Debug\net5.0\GraphsAndTrees.pdb
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\obj\Debug\net5.0\GraphsAndTrees.csproj.AssemblyReference.cache
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\obj\Debug\net5.0\GraphsAndTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\obj\Debug\net5.0\GraphsAndTrees.AssemblyInfoInputs.cache
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\obj\Debug\net5.0\GraphsAndTrees.AssemblyInfo.cs
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\obj\Debug\net5.0\GraphsAndTrees.csproj.CoreCompileInputs.cache
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\obj\Debug\net5.0\GraphsAndTrees.dll
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\obj\Debug\net5.0\ref\GraphsAndTrees.dll
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\obj\Debug\net5.0\GraphsAndTrees.pdb
+C:\Users\DjanerChoban\source\repos\GraphsAndTrees\GraphsAndTrees\obj\Debug\net5.0\GraphsAndTrees.genruntimeconfig.cache

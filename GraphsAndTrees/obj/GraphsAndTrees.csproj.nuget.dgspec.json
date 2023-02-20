@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data-Structures-and-Algorithms\\GraphsAndThrees\\GraphsAndThrees.csproj": {}
+    "C:\\Users\\DjanerChoban\\source\\repos\\GraphsAndTrees\\GraphsAndTrees\\GraphsAndTrees.csproj": {}
   },
   "projects": {
-    "D:\\Data-Structures-and-Algorithms\\GraphsAndThrees\\GraphsAndThrees.csproj": {
+    "C:\\Users\\DjanerChoban\\source\\repos\\GraphsAndTrees\\GraphsAndTrees\\GraphsAndTrees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data-Structures-and-Algorithms\\GraphsAndThrees\\GraphsAndThrees.csproj",
-        "projectName": "GraphsAndThrees",
-        "projectPath": "D:\\Data-Structures-and-Algorithms\\GraphsAndThrees\\GraphsAndThrees.csproj",
+        "projectUniqueName": "C:\\Users\\DjanerChoban\\source\\repos\\GraphsAndTrees\\GraphsAndTrees\\GraphsAndTrees.csproj",
+        "projectName": "GraphsAndTrees",
+        "projectPath": "C:\\Users\\DjanerChoban\\source\\repos\\GraphsAndTrees\\GraphsAndTrees\\GraphsAndTrees.csproj",
         "packagesPath": "C:\\Users\\DjanerChoban\\.nuget\\packages\\",
-        "outputPath": "D:\\Data-Structures-and-Algorithms\\GraphsAndThrees\\obj\\",
+        "outputPath": "C:\\Users\\DjanerChoban\\source\\repos\\GraphsAndTrees\\GraphsAndTrees\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

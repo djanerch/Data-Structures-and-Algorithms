@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "GraphsAndThrees/1.0.0": {
+      "GraphsAndTrees/1.0.0": {
         "runtime": {
-          "GraphsAndThrees.dll": {}
+          "GraphsAndTrees.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "GraphsAndThrees/1.0.0": {
+    "GraphsAndTrees/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
